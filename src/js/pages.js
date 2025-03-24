@@ -1,22 +1,22 @@
 export const soon = {
-  title: "Come Back Later...",
+  title: "Datang lagi nanti yaa",
   body: `<br />
-    <h1>Hi, you come to early</h1>
+    <h1>Hahahah kamu datang kecepetan</h1>
     <br /><br /><br />
     <p>
-        I know this page is very interesting for you, especially for your special day but.<br />
-        You need to be patience until the time has come, right ?
+        Aku tau ini untuk hari spesialll buat kamuuu<br />
+        tapi kamu harus sabar woiiii,?
     </p>`,
 };
 
 export const late = {
-  title: "See you next time...",
+  title: "Sampai jumpa nanti",
   body: `<br />
-    <h1>The party was over</h1>
+    <h1>Yahh acaranya sudah selesaii tauuu</h1>
     <br /><br /><br />
     <p>
-        Yes, my gift for you is kinda simple, cheap, and weird ? &#128534<br>
-        B-but. It's only for you. &#128150
+       Ya, hadiahku untukmu agak sederhana, murah, dan aneh ? &#128534<br>
+        tapii ini hanya untukmuu &#128150
     </p>
 `,
 };
